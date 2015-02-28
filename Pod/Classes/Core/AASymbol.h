@@ -7,6 +7,7 @@
 
 extern const struct AASymbol {
 __unsafe_unretained NSString *const Linux;
+    __unsafe_unretained NSString *const Opera;
     
 } AASymbol;
 

@@ -7,4 +7,5 @@
 
 const struct AASymbol AASymbol = {
         .Linux = @"linux",
+        .Opera = @"opera",
 };
