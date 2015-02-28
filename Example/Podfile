@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'AASymbolFont', :exclusive => true do
+  pod "AASymbolFont", :path => "../"
+
+  
+end

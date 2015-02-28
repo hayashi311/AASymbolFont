@@ -1,0 +1,18 @@
+PODS:
+  - AASymbolFont (0.1.0):
+    - AASymbolFont/Core (= 0.1.0)
+    - AASymbolFont/UI (= 0.1.0)
+  - AASymbolFont/Core (0.1.0)
+  - AASymbolFont/UI (0.1.0)
+
+DEPENDENCIES:
+  - AASymbolFont (from `../`)
+
+EXTERNAL SOURCES:
+  AASymbolFont:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AASymbolFont: 6a11ec6d35f3838fb34eff075f88dee05bd454dc
+
+COCOAPODS: 0.35.0
