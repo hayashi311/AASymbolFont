@@ -6,7 +6,8 @@
 #import <Foundation/Foundation.h>
 
 extern const struct AASymbol {
-__unsafe_unretained NSString *const Linux;
+__unsafe_unretained NSString *const Appstore;
+    __unsafe_unretained NSString *const Linux;
     __unsafe_unretained NSString *const Opera;
     
 } AASymbol;

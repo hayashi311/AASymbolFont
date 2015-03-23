@@ -6,6 +6,7 @@
 #import "AASymbol.h"
 
 const struct AASymbol AASymbol = {
+        .Appstore = @"appstore",
         .Linux = @"linux",
         .Opera = @"opera",
 };
