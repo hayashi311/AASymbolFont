@@ -8,5 +8,6 @@
 const struct AASymbol AASymbol = {
         .Appstore = @"appstore",
         .Linux = @"linux",
+        .Map = @"map",
         .Opera = @"opera",
 };
